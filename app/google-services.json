@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "45150337370",
+    "firebase_url": "https://majelis-ulama-indonesia.firebaseio.com",
+    "project_id": "majelis-ulama-indonesia",
+    "storage_bucket": "majelis-ulama-indonesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45150337370:android:9a846ce7b3a6b125",
+        "android_client_info": {
+          "package_name": "id.or.mui.elibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45150337370-n0b4a51onnnh8pe9n0rpvubasp6lv9et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TU0MHyckc60bED7o92uYA-r5UPrFu_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45150337370:android:8e82bac2d828530e",
+        "android_client_info": {
+          "package_name": "or.id.mui.mobile.artikel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45150337370-n0b4a51onnnh8pe9n0rpvubasp6lv9et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TU0MHyckc60bED7o92uYA-r5UPrFu_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45150337370:android:d6703da000c540b4",
+        "android_client_info": {
+          "package_name": "or.id.mui.mobile.infokom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45150337370-n0b4a51onnnh8pe9n0rpvubasp6lv9et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TU0MHyckc60bED7o92uYA-r5UPrFu_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
